@@ -179,7 +179,7 @@ h6 {
 .nav-menu a span,
 .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #45505b;
+  color: #00A86B;
 }
 
 @media (min-width: 992px) {
@@ -498,7 +498,8 @@ section {
 
 .profile-role {
   margin-top: 6px;
-  color: #58707a;
+  /* color: #58707a; */
+  color: #00A86B;
   font-size: 14px;
   margin-bottom: 12px;
 }
@@ -538,7 +539,7 @@ section {
   position: absolute;
   left: -28px;
   top: 20px;
-  background: #0b63b8;
+  background: #00A86B;
   color: white;
   padding: 8px 12px;
   border-radius: 12px;
